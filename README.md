@@ -1,4 +1,4 @@
-# Theoretical-Foundation-For-Covariance-Matrix-Adaptation-Evolutionary-Strategy-CMA-ES-
+# Theoretical-Foundation-For-Covariance-Matrix-Adaptation-Evolutionary-Strategy-CMA-ES
 
 Theoretical foundation for Covariance Matrix Adaptation (CMA-ES) from information geometric perspective
 
